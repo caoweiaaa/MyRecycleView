@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TimeLine">
+        <attr name="begin_line" format="color|reference"/>
+        <attr name="end_line" format="color|reference"/>
+        <attr name="line_size" format="dimension"/>
+        <attr name="my_icon_size" format="dimension"/>
+        <attr name="my_icon" format="color|reference"/>
+    </declare-styleable>
+</resources>
